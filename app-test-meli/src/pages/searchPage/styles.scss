@@ -1,3 +1,9 @@
+@import '../../styles/_colors.scss';
+
 .formAlign{
     display: inline-flex;
+}
+.textFieldStyle{
+    height: 40px;
+    background-color: $white;
 }
